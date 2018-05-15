@@ -1,6 +1,6 @@
 ---
-title: This is my title
-layout: post
+title: Treta
+layout: page
 ---
 
 Here is my page.
