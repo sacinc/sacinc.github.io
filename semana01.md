@@ -1,4 +1,6 @@
 ---
+title: This is my title
+layout: post
 ---
 
-Olha o gás
+Here is my page.
